@@ -1,0 +1,3 @@
+grant codeBase "file:c/gra_statki/" {
+    permission java.security.AllPermission;
+};
