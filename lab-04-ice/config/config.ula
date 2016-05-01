@@ -1,0 +1,5 @@
+Stats1.Proxy=k1/ula:tcp -h localhost -p 10000
+Vectors2.Proxy=k2/ula:tcp -h localhost -p 10000
+Vectors3.Proxy=k3/ula:tcp -h localhost -p 10000
+Vectors4.Proxy=k4/ula:tcp -h localhost -p 10000
+Timestamp5.Proxy=k5/ula:tcp -h localhost -p 10000
